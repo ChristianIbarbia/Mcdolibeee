@@ -1,0 +1,6 @@
+@Mcdoliibee.Api_HostAddress = http://localhost:5167
+
+GET {{Mcdoliibee.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
